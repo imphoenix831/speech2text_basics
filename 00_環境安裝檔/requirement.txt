@@ -1,0 +1,13 @@
+python-docx
+jieba
+Pillow
+moviepy
+progressbar2
+wordcloud
+pydub
+scipy
+google-cloud-speech
+google-cloud-storage
+openpyxl
+matplotlib
+xlrd
